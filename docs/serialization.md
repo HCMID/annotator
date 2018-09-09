@@ -5,7 +5,7 @@ title:  Serialization format
 
 ## Serialization
 
-For the simple, flat structure described in the [data model](../model) a delimited-text format is appropriate.
+For the simple, flat structure described in the [data model](model) a delimited-text format is appropriate.
 
 Sepcifications:
 
