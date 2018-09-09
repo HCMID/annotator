@@ -6,3 +6,5 @@ This web site documents a simple model for annotating citable data, and defines 
 
 
 1.  [Model](model)
+2.  Specification of [serialization format](serialization).
+3.  [Requirements](requirements) for an end-user application.
