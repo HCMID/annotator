@@ -9,3 +9,6 @@ This web site documents a simple model for annotating citable data, and defines 
 2.  Specification of [serialization format](serialization).
 3.  [Requirements](requirements) for an end-user application.
 4.  A few [links and references](links)
+
+
+(Project [github repository](https://github.com/HCMID/annotator).)
